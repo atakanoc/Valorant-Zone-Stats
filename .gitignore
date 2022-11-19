@@ -217,3 +217,5 @@ matches/
 settings.ini
 storage.json
 *.db.bak
+
+.idea/
